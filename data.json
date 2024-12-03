@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Node.js Basics",
+    "content": "Learn the basics of Node.js",
+    "tags": [
+      "node",
+      "javascript"
+    ],
+    "date": "2024-12-03T08:37:42.539Z"
+  },
+  {
+    "id": 2,
+    "title": "Learning JavaScript",
+    "content": "JavaScript is a versatile language.",
+    "tags": [
+      "javascript",
+      "programming"
+    ],
+    "date": "2024-12-03T08:42:47.368Z"
+  },
+  {
+    "id": 3,
+    "title": "Understanding REST APIs",
+    "content": "REST APIs are a key component of modern web development.",
+    "tags": [
+      "API",
+      "REST",
+      "web development"
+    ],
+    "date": "2024-12-03T08:45:50.015Z"
+  },
+  {
+    "id": 4,
+    "title": "Benefits of a Balanced Diet",
+    "content": "A balanced diet is crucial for maintaining good health and energy.",
+    "tags": [
+      "health",
+      "nutrition",
+      "diet"
+    ],
+    "date": "2024-12-03T08:46:00.168Z"
+  },
+  {
+    "id": 5,
+    "title": "Top Destinations in Europe",
+    "content": "Europe offers a variety of travel destinations, from historic cities to beautiful landscapes.",
+    "tags": [
+      "travel",
+      "Europe",
+      "destinations"
+    ],
+    "date": "2024-12-03T08:46:11.888Z"
+  },
+  {
+    "id": 6,
+    "title": "Exploring Quantum Physics",
+    "content": "Quantum physics explores the behavior of matter and energy at the atomic and subatomic levels.",
+    "tags": [
+      "science",
+      "physics",
+      "quantum"
+    ],
+    "date": "2024-12-03T08:46:22.364Z"
+  },
+  {
+    "id": 7,
+    "title": "Investing in Stock Markets",
+    "content": "Investing in stocks can be a great way to build wealth over time.",
+    "tags": [
+      "finance",
+      "investing",
+      "stocks"
+    ],
+    "date": "2024-12-03T08:46:35.854Z"
+  },
+  {
+    "id": 8,
+    "title": "Football World Cup Highlights",
+    "content": "The Football World Cup is one of the most watched sporting events globally.",
+    "tags": [
+      "sports",
+      "football",
+      "world cup"
+    ],
+    "date": "2024-12-03T08:46:46.602Z"
+  },
+  {
+    "id": 9,
+    "title": "Starting a Small Business",
+    "content": "Starting a small business requires careful planning and dedication.",
+    "tags": [
+      "business",
+      "entrepreneurship",
+      "startup"
+    ],
+    "date": "2024-12-03T08:46:59.349Z"
+  },
+  {
+    "id": 10,
+    "title": "How to Learn Java",
+    "content": "Java is a versatile programming language. It is widely used in web development.",
+    "tags": [
+      "java",
+      "programming",
+      "web"
+    ],
+    "date": "2024-12-03T09:10:59.477Z"
+  },
+  {
+    "id": 11,
+    "title": "Basics of Python",
+    "content": "Python is a very versatile programming language that can be used for a variety of purposes.",
+    "tags": [
+      "python",
+      "programming"
+    ],
+    "date": "2024-12-03T09:13:34.030Z"
+  },
+  {
+    "id": 12,
+    "title": "Basics of Skincare",
+    "content": "Skincare has dated back to centuries ago",
+    "tags": [
+      "skincare",
+      "basics"
+    ],
+    "date": "2024-12-03T09:22:20.754Z"
+  }
+]
